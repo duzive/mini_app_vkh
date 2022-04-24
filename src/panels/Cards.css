@@ -1,0 +1,13 @@
+.Photo {
+  display: block;
+  width: 90%;
+  max-width: 700px;
+  margin: 20px auto;
+  border: 1px dotted rgb(85, 85, 88);
+}
+
+.text_end {
+  font-size: 15px;
+  font-weight: 'Times New Roman';
+  background-color: aliceblue;
+}
